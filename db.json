@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Nishchal",
+      "email": "nishchaljain786@gmail.com",
+      "address": "Bangalore",
+      "contact": 9820515123
+    },
+    {
+      "id": 2,
+      "name": "Divya",
+      "email": "jaindivya417@gmail.com",
+      "address": "Bangalore",
+      "contact": "8652293132"
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "address": "sdsdasdas",
+      "contact": "9820515098",
+      "id": 3
+    }
+  ]
+}
